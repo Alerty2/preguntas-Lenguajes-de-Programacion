@@ -1,2 +1,2 @@
 # preguntas-Lenguajes-de-Programacion
-son preguntas sobre un power point
+Las respuestas tienen que ir sin MAYUSCULAS y sin ACENTOS
